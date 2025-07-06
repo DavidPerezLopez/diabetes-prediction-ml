@@ -3,4 +3,4 @@ Este repositorio contiene un dataset y código Python para predecir diabetes usa
 
 ## Contenido
 - `diabetes_binary.csv`: Dataset de diabetes
-- `modelos_predictivos.py`: Código de entrenamiento
+- `modelos predictivos diabetes.py`: Código de entrenamiento
